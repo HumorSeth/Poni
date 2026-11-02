@@ -11,6 +11,7 @@ language too, or fix a word that reads wrong. This folder only holds Poni's text
 | `id.json` | Bahasa Indonesia (complete). |
 | `fr.json` | French (complete, by MaximeDawn). |
 | `pl.json` | Polish (complete, by kasper-pawlowski). |
+| `tr.json` | Turkish (complete, by ferdibisus). |
 | `ar.json` | Arabic (open: every text is there, the translations are still empty). |
 | `uk.json` | Ukrainian (open: every text is there, the translations are still empty). |
 
