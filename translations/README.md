@@ -13,7 +13,7 @@ language too, or fix a word that reads wrong. This folder only holds Poni's text
 | `pl.json` | Polish (complete, by kasper-pawlowski). |
 | `tr.json` | Turkish (complete, by ferdibisus). |
 | `ar.json` | Arabic (open: every text is there, the translations are still empty). |
-| `uk.json` | Ukrainian (open: every text is there, the translations are still empty). |
+| `uk.json` | Ukrainian (complete, by MrBooomber). |
 
 Each line is `"English text": "translation"`. Only the right-hand side is yours. A translation left empty (`""`) shows
 in English for now, so you can translate a bit at a time and still try it out.
