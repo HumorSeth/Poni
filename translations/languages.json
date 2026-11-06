@@ -1,0 +1,12 @@
+{
+  "_about": "The languages Poni offers (from 1.6.0 Poni reads this list once a day). code: the file name here (ru → ru.json); name: the language's own name; ready: offered in Settings → General → Language; rtl: written right to left. Bahasa Indonesia is built into Poni.",
+  "languages": [
+    { "code": "id", "name": "Bahasa Indonesia", "ready": true },
+    { "code": "fr", "name": "Français", "ready": true },
+    { "code": "pl", "name": "Polski", "ready": true },
+    { "code": "tr", "name": "Türkçe", "ready": true },
+    { "code": "uk", "name": "Українська", "ready": true },
+    { "code": "ru", "name": "Русский", "ready": true },
+    { "code": "ar", "name": "العربية", "ready": false, "rtl": true }
+  ]
+}
