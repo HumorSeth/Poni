@@ -1,7 +1,8 @@
 # Translating Poni
 
-Poni is in English, and the next version adds a language setting with Bahasa Indonesia. You can help it speak your
-language too, or fix a word that reads wrong. This folder only holds Poni's texts; the app's source code isn't here.
+Poni speaks English, Bahasa Indonesia and the languages below (Settings → General → Language). You can help it speak
+your language too, or fix a word that reads wrong. This folder only holds Poni's texts; the app's source code isn't
+here.
 
 ## The files
 
@@ -15,6 +16,7 @@ language too, or fix a word that reads wrong. This folder only holds Poni's text
 | `ar.json` | Arabic (open: every text is there, the translations are still empty). |
 | `uk.json` | Ukrainian (complete, by MrBooomber). |
 | `ru.json` | Russian (complete, by Jemmrock). |
+| `languages.json` | The list of languages Poni offers. |
 
 Each line is `"English text": "translation"`. Only the right-hand side is yours. A translation left empty (`""`) shows
 in English for now, so you can translate a bit at a time and still try it out.
@@ -24,8 +26,9 @@ in English for now, so you can translate a bit at a time and still try it out.
 1. **A new language?** Open an issue and say which one. I'll add an empty file for it, with every text in place.
 2. **Translate:** fill in the right-hand side of your language's file. Don't change the English on the left.
 3. **Send it:** a pull request, or attach the file to your issue. Halfway is fine.
-4. **Try it:** your language comes with the next version of Poni after it's in (Settings → General → Language). Texts
-   added to Poni since then are filled in for you, and corrections are always welcome.
+4. **Try it:** from Poni 1.6.0 on, there's no waiting for a release. Poni checks this folder once a day: a fix merged
+   here is used from its next start, and a new language shows up in Settings → General → Language once it's added to
+   `languages.json`. Texts added to Poni since are filled in for you, and corrections are always welcome.
 
 ## A few rules
 
@@ -49,4 +52,4 @@ Arrows such as "Settings → About" in a text can point the other way in your la
 ## When Poni gets new texts
 
 New texts are added to every file with an empty translation, and nothing you've translated is touched. The files here
-are updated with each release.
+are updated with each release. Texts an older Poni still uses stay in the files, so older versions keep theirs.
