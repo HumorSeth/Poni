@@ -1,8 +1,10 @@
 # Poni
 
-An interactive notch for Windows 10 and 11 (formerly "Notch for Windows"). It lives at the top of your screen: hover over it to open it, drag files onto it, or press `Alt+N`.
+An interactive notch for Windows 10 and 11, with a Beta for Mac and Linux (formerly "Notch for Windows"). It lives at the top of your screen: hover over it to open it, drag files onto it, or press `Alt+N`.
 
 **[Download the latest version](https://github.com/liimalim/Poni/releases/latest)**: pick `Poni_x.y.z_x64-setup.exe` (recommended, updates itself) or the portable `.exe`. Website: **[poni.web.id](https://poni.web.id/)**. How to use every feature: **[the Poni guide](https://poni.web.id/en/guide/)**.
+
+**Mac and Linux (Beta)**: get the `.dmg`, `.AppImage` or `.deb` from **[poni.web.id/unduh/mac-linux](https://poni.web.id/unduh/mac-linux/?lang=en)** (free, or pay what you want). Some Windows-only parts (the Dock, Snap Zones, the Wi-Fi and Bluetooth lists and a few more) aren't there yet.
 
 ## Features
 
@@ -18,6 +20,9 @@ An interactive notch for Windows 10 and 11 (formerly "Notch for Windows"). It li
 - **Screen Time, Day Progress, System stats** with CPU and GPU load and temperatures (when Windows shares them, no admin or driver needed), and a System summary that pops up in the closed notch now and then
 - **Shelf and Drop Actions**: zip, extract, convert images, copy/move, OneDrive, Share, Recycle Bin, and a **clipboard history** of the texts, links and pictures you copy, with pins (off until you turn it on), and files and text from your **phone** on the same Wi-Fi with a QR code
 - **Snap Zones**: drag a window onto the notch to tile it
+- **Teleprompter**: your script scrolls in a strip right under the camera, with the line being read lit up; pause, speed and back one line from any app with keyboard shortcuts (off until you turn it on)
+- **World clock**: up to 8 places with a meeting planner, a Dashboard widget and a slot in the closed notch, plus a clock size setting and an hourly chime
+- **Moving wallpaper**: a video or picture behind your desktop icons, paused over fullscreen apps and on battery; a **color picker** for anything on the screen, and an **internet speed test**
 - **Your look**: Poni in black, any color, glass, or frosted glass, attached to the top edge or floating a little below it
 - **The closed notch**: pick what its left and right show (weather, battery, date, next prayer, event, task, temperature, CPU, memory, disk or Wi-Fi), a clock in the middle that stays while music plays, **auto-hide** (always, or while the apps you pick are in front) that can come down while you're idle, a hide button (or a double right-click) that tucks Poni away to a thin handle, or Poni stepping aside when the mouse comes to it from below; it slides away when an app goes fullscreen
 - **Touchscreen support**: taps on Poni reach Poni, taps beside it go to the window behind
