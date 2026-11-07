@@ -45,7 +45,7 @@ Coming from Notch for Windows? Nothing to do: Notch updates itself to Poni, remo
 
 Poni is free. If it helps you, you can treat the developer to a coffee:
 
-- **[Support on Gumroad](https://bosdigital.gumroad.com/l/notch-for-windows)** (international: card or PayPal, pay what you want)
+- **[Support on PayPal](https://paypal.me/bosdigital)** (international)
 - **QRIS** (Indonesia: GoPay, OVO, DANA, ShopeePay, mobile banking)
 
   <img src="assets/qris.jpg" alt="QRIS Bos Digital" width="260">
